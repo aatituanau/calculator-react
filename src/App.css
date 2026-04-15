@@ -41,3 +41,7 @@
 .calculator button:hover {
   background-color: #c6ac5f;
 }
+
+.calculator button.operator {
+  background-color: #f44336;
+}
