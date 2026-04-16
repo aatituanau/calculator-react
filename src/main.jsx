@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App.jsx";
 
 // eslint-disable-next-line no-unused-vars
+// example of how to use the createRoot API
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
