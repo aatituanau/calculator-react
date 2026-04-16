@@ -10,6 +10,7 @@ function App() {
     setScreen(screen + number);
   };
 
+  // eslint-disable-next-line no-eval
   const handleTotal = () => {
     try {
       setScreen(eval(screen).toString());
